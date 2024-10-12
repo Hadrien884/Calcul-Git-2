@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcul Git 2", "Calcul Git 2\Calcul Git 2.csproj", "{FC1A2848-E562-42B6-B943-FBC6090A097D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1A2848-E562-42B6-B943-FBC6090A097D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1A2848-E562-42B6-B943-FBC6090A097D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1A2848-E562-42B6-B943-FBC6090A097D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1A2848-E562-42B6-B943-FBC6090A097D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564A5777-4194-4301-A6E4-EBF21D16B2C3}
+	EndGlobalSection
+EndGlobal

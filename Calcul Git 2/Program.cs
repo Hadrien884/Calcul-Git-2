@@ -33,6 +33,10 @@ namespace Calcul_Git_2
                 // traitement des choix
                 if (choix != 0)
                 {
+                    // modification refus
+                    val1 = rand.Next(1, 10);
+                    val2 = rand.Next(1, 10);
+
                     // Création des 2 nombres aléatoires
                     val1 = rand.Next(1, 10);
                     val2 = rand.Next(1, 10);
